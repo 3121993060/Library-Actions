@@ -182,8 +182,8 @@ def COOKIE_STATUS():
 #     headers={
 #     "Cookie": cookie_moudle.get_local_cookies_style2(),
 #     "Host": "rg.lib.xauat.edu.cn",
-#     "Origin": "http://rg.lib.xauat.edu.cn",
-#     "Referer": "http://rg.lib.xauat.edu.cn/web/seat3?area=10&segment=1319909&day=2021-11-14&startTime=20:11&endTime=23:00",
+#     "Origin": "http://http://libzw.csu.edu.cn/",
+#     "Referer": "http://libzw.csu.edu.cn/home/web/f_second",
 #     "User-Agent": spider_UA.User_Agent,
 #     "X-Requested-With": "XMLHttpRequest",
 #     }
